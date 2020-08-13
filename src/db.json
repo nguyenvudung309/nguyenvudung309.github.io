@@ -1,0 +1,35 @@
+{
+  "products": [
+    {
+      "id": "1qvfkadh3",
+      "name": "gftv",
+      "image": "https://firebasestorage.googleapis.com/v0/b/dungnvph07894-jsnangcao.appspot.com/o/images%2Fpic10.jpg?alt=media&token=5ea6f11f-c707-431f-953c-a772d4e0cfc3",
+      "price": "1233",
+      "desc": ""
+    },
+    {
+      "id": "kh586784a",
+      "name": "gftv",
+      "image": "https://firebasestorage.googleapis.com/v0/b/dungnvph07894-jsnangcao.appspot.com/o/images%2Fpic06.jpg?alt=media&token=6a0b7f6f-a0ee-43f6-a51d-5dc3f068ada1",
+      "price": "1233",
+      "cate_id": "0gjqns6nb",
+      "desc": ""
+    },
+    {
+      "id": "rftw35yyv",
+      "name": "gftv",
+      "image": "https://firebasestorage.googleapis.com/v0/b/dungnvph07894-jsnangcao.appspot.com/o/images%2Fpic06.jpg?alt=media&token=c207ea21-43a3-4865-ab4d-3505ae76f9b0",
+      "price": "1233",
+      "detail": "plokijuhbgvcd",
+      "desc": ""
+    }
+  ],
+  "category": [
+    {
+      "id": "p8wxlw59g",
+      "cate_name": "umhnbgv",
+      "image": "https://firebasestorage.googleapis.com/v0/b/dungnvph07894-jsnangcao.appspot.com/o/images%2Fpic06.jpg?alt=media&token=d54a45e2-e31f-46d6-8820-83d21f4349a4",
+      "desc": ""
+    }
+  ]
+}
